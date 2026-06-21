@@ -1,0 +1,8 @@
+npm i
+setup the .env
+npm start
+
+
+To test
+open another terminal and run npm run demo
+while npm start is running in another terminal
